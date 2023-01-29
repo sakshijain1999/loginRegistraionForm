@@ -1,0 +1,127 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "firstName": "monkey",
+      "lastName": "monkey",
+      "username": "mmm",
+      "password": "pistol",
+      "token": 1
+    },
+    {
+      "token": 2,
+      "firstName": "nammo",
+      "lastName": "nammo",
+      "username": "qqqq",
+      "password": "qqqq@123",
+      "id": 2
+    },
+    {
+      "firstName": "sakshi",
+      "lastName": "jain",
+      "username": "sakshi",
+      "password": "sakshi@123",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": "even",
+      "password": "pistol",
+      "terms": true
+    },
+    {
+      "username": "qqqq",
+      "password": "qqqq@123",
+      "id": 2,
+      "terms": true
+    },
+    {
+      "username": "qqqq",
+      "password": "qqqq@123\"",
+      "id": 3
+    },
+    {
+      "username": "qqqq",
+      "password": "qqqq@123\"",
+      "id": 4
+    },
+    {
+      "username": "qqqq",
+      "password": "qqqq@123\"",
+      "id": 5
+    },
+    {
+      "username": "qqqq",
+      "password": "qqqq@123",
+      "id": 6
+    },
+    {
+      "username": "qqqq",
+      "password": "qqqq@123",
+      "id": 7
+    },
+    {
+      "username": "qqqq",
+      "password": "qqqq@123",
+      "id": 8
+    },
+    {
+      "username": "sakshi",
+      "password": "sakshi@123",
+      "id": 9
+    },
+    {
+      "username": "qqqq",
+      "password": "qqqq@123",
+      "id": 10
+    },
+    {
+      "username": "sakshi",
+      "password": "sakshi@123",
+      "id": 11
+    }
+  ],
+  "getAll": [
+    {
+      "id": 1,
+      "username": "bb",
+      "password": "nn",
+      "firstName": "mm",
+      "lastName": "mm",
+      "token": 1
+    },
+    {
+      "id": 2,
+      "username": "bb",
+      "password": "nn",
+      "firstName": "mm",
+      "lastName": "mm",
+      "token": 2
+    },
+    {
+      "id": 2,
+      "username": "bb",
+      "password": "nn",
+      "firstName": "mm",
+      "lastName": "mm",
+      "token": 2
+    },
+    {
+      "id": 3,
+      "username": "bb",
+      "password": "nn",
+      "firstName": "mm",
+      "lastName": "mm",
+      "token": 3
+    }
+  ]
+}
